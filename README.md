@@ -22,5 +22,5 @@ I am a passionate coder with a knack for database management. I love diving into
   - Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact Me
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/french-montajes-a3205a2a3/)
 - Email: montajesfrench@gmail.com
